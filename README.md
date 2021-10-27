@@ -14,6 +14,9 @@ Misura con un micrometro, segna con un gessetto, taglia con una motosega.
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimbolimbo3)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+<a href="https://app.daily.dev/jimbolimbo3"><img src="https://api.daily.dev/devcards/469e1957cb5b41828f5335e40a8a91f0.png?r=uu4" width="400" alt="Luigi Sirito's Dev Card"/></a>
 <!--
 **jimbolimbo3/jimbolimbo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
